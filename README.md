@@ -13,3 +13,12 @@ Clustering done using K-meas and K-modes  /   Decision Tree done using titanic d
  2. Upload the files into Google Drive to do the set up of the code, connect the Drive to the Colab File and modify the path of the files to your specifict Drive Folder
  3. Click on Runtime and select Run all
  4. Observe the graphs being created and input the data in the last segment to determine if you would be a survivor or not of the titanic depending on certain data :)
+
+
+Datasets obtained from:
+
+Clustering. 
+Data.World. NYC Crime Data. https://data.world/data-society/nyc-crime-data 
+
+Decision Tree.
+Kaggle Prediction Competition. Titanic - Machine Learning from Disaster. https://www.kaggle.com/competitions/titanic/data 
